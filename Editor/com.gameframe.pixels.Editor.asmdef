@@ -1,0 +1,19 @@
+{
+    "name": "com.gameframe.pixels.Editor",
+    "rootNamespace": "",
+    "references": [
+        "com.gameframe.pixels",
+        "Unity.2D.Sprite.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

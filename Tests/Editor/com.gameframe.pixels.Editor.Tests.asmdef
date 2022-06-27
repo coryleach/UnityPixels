@@ -1,0 +1,1 @@
+{ "name": "com.gameframe.pixels.Editor.Tests", "references": [ "com.gameframe.pixels" ], "optionalUnityReferences": ["TestAssemblies"], "includePlatforms": [ "Editor" ], "excludePlatforms": [] }

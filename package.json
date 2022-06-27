@@ -1,0 +1,19 @@
+{
+    "githubUrl": "",
+    "name": "com.gameframe.pixels",
+    "displayName": "Gameframe.Pixels",
+    "repositoryName": "UnityPixels",
+    "version": "0.1.0",
+    "description": "Scripts & Utilities for working with Sprite Art",
+    "type": "library",
+    "unity": "",
+    "unityRelease": "",
+    "keywords": [],
+    "author": {
+        "name": "Cory Leach",
+        "email": "cory.leach@gmail.com",
+        "url": "https://github.com/coryleach",
+        "twitter": "coryleach",
+        "github": "coryleach"
+    }
+}
